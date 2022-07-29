@@ -1,0 +1,24 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "\"Write your code here\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.7",
+    "fawn": "^2.1.5",
+    "joi": "^17.6.0",
+    "joi-objectid": "^4.0.2",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.5"
+  }
+}

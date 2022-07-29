@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Jeet",
+    "address": "Rajkot",
+    "fees": { "amount": 10000, "payment_date": "12/12/2020", "status": true },
+    "result": {
+      "total": 210,
+      "grade": "A"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jinal",
+    "address": "Surat",
+    "fees": { "amount": 12000, "payment_date": "12/12/2020", "status": false },
+    "result": {
+      "total": 210,
+      "grade": "A"
+    }
+  }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "jeet", "Age": 22, "City": "Rajkot" },
+  { "id": 2, "name": "Vaibhav", "Age": 21, "City": "Rajkot" },
+  { "id": 3, "name": "Dipen", "Age": 20, "City": "Rajkot" },
+  { "id": 4, "name": "Ansh", "Age": 16, "City": "Gandhidham" }
+]
