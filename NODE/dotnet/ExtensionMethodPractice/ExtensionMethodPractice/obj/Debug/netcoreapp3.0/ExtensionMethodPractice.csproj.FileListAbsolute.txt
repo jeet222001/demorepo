@@ -1,0 +1,11 @@
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\netcoreapp3.0\ExtensionMethodPractice.exe
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\netcoreapp3.0\ExtensionMethodPractice.deps.json
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\netcoreapp3.0\ExtensionMethodPractice.runtimeconfig.json
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\netcoreapp3.0\ExtensionMethodPractice.runtimeconfig.dev.json
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\netcoreapp3.0\ExtensionMethodPractice.dll
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\bin\Debug\netcoreapp3.0\ExtensionMethodPractice.pdb
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\netcoreapp3.0\ExtensionMethodPractice.csprojAssemblyReference.cache
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\netcoreapp3.0\ExtensionMethodPractice.AssemblyInfoInputs.cache
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\netcoreapp3.0\ExtensionMethodPractice.AssemblyInfo.cs
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\netcoreapp3.0\ExtensionMethodPractice.dll
+C:\Users\jeet.raythatha\source\repos\ExtensionMethodPractice\ExtensionMethodPractice\obj\Debug\netcoreapp3.0\ExtensionMethodPractice.pdb

@@ -1,0 +1,11 @@
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\bin\Debug\netcoreapp3.0\ComputeGrade.exe
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\bin\Debug\netcoreapp3.0\ComputeGrade.deps.json
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\bin\Debug\netcoreapp3.0\ComputeGrade.runtimeconfig.json
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\bin\Debug\netcoreapp3.0\ComputeGrade.runtimeconfig.dev.json
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\bin\Debug\netcoreapp3.0\ComputeGrade.dll
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\bin\Debug\netcoreapp3.0\ComputeGrade.pdb
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\obj\Debug\netcoreapp3.0\ComputeGrade.csprojAssemblyReference.cache
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\obj\Debug\netcoreapp3.0\ComputeGrade.AssemblyInfoInputs.cache
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\obj\Debug\netcoreapp3.0\ComputeGrade.AssemblyInfo.cs
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\obj\Debug\netcoreapp3.0\ComputeGrade.dll
+C:\Users\jeet.raythatha\source\repos\ComputeGrade\ComputeGrade\obj\Debug\netcoreapp3.0\ComputeGrade.pdb

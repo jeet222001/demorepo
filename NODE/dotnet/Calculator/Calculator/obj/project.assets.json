@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CalculatorLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CalculatorLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorLibrary/CalculatorLibrary.csproj",
+      "msbuildProject": "../CalculatorLibrary/CalculatorLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "CalculatorLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jeet.raythatha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jeet.raythatha\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectName": "Calculator",
+      "projectPath": "C:\\Users\\jeet.raythatha\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\jeet.raythatha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jeet.raythatha\\source\\repos\\Calculator\\Calculator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jeet.raythatha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\jeet.raythatha\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+              "projectPath": "C:\\Users\\jeet.raythatha\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

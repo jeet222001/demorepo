@@ -1,0 +1,11 @@
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\bin\Debug\netcoreapp3.0\Assignment1DateFormate.exe
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\bin\Debug\netcoreapp3.0\Assignment1DateFormate.deps.json
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\bin\Debug\netcoreapp3.0\Assignment1DateFormate.runtimeconfig.json
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\bin\Debug\netcoreapp3.0\Assignment1DateFormate.runtimeconfig.dev.json
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\bin\Debug\netcoreapp3.0\Assignment1DateFormate.dll
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\bin\Debug\netcoreapp3.0\Assignment1DateFormate.pdb
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\obj\Debug\netcoreapp3.0\Assignment1DateFormate.csprojAssemblyReference.cache
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\obj\Debug\netcoreapp3.0\Assignment1DateFormate.AssemblyInfoInputs.cache
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\obj\Debug\netcoreapp3.0\Assignment1DateFormate.AssemblyInfo.cs
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\obj\Debug\netcoreapp3.0\Assignment1DateFormate.dll
+C:\Users\jeet.raythatha\source\repos\Assignment1DateFormate\Assignment1DateFormate\obj\Debug\netcoreapp3.0\Assignment1DateFormate.pdb

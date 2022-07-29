@@ -1,0 +1,8 @@
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.deps.json
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.dll
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.pdb
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.dll
+C:\Users\jeet.raythatha\source\repos\Calculator\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.pdb

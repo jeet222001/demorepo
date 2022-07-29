@@ -1,0 +1,11 @@
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\bin\Debug\netcoreapp3.0\AssignmentStringFormat.exe
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\bin\Debug\netcoreapp3.0\AssignmentStringFormat.deps.json
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\bin\Debug\netcoreapp3.0\AssignmentStringFormat.runtimeconfig.json
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\bin\Debug\netcoreapp3.0\AssignmentStringFormat.runtimeconfig.dev.json
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\bin\Debug\netcoreapp3.0\AssignmentStringFormat.dll
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\bin\Debug\netcoreapp3.0\AssignmentStringFormat.pdb
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\obj\Debug\netcoreapp3.0\AssignmentStringFormat.AssemblyInfoInputs.cache
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\obj\Debug\netcoreapp3.0\AssignmentStringFormat.AssemblyInfo.cs
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\obj\Debug\netcoreapp3.0\AssignmentStringFormat.dll
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\obj\Debug\netcoreapp3.0\AssignmentStringFormat.pdb
+C:\Users\jeet.raythatha\source\repos\AssignmentStringFormat\AssignmentStringFormat\obj\Debug\netcoreapp3.0\AssignmentStringFormat.csprojAssemblyReference.cache

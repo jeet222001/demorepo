@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+
+#nullable disable
+
+namespace EntityFrameWork.Models
+{
+    public partial class StudentDetail1
+    {
+        public string Name { get; set; }
+        public string SexStandard { get; set; }
+        public int? MonthlyPresent { get; set; }
+        public DateTime? DailyHours { get; set; }
+    }
+}
