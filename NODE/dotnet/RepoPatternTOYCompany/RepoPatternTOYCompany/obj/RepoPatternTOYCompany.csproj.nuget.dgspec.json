@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeet.raythatha\\source\\repos\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj": {}
+    "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeet.raythatha\\source\\repos\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj": {
+    "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeet.raythatha\\source\\repos\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj",
+        "projectUniqueName": "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj",
         "projectName": "RepoPatternTOYCompany",
-        "projectPath": "C:\\Users\\jeet.raythatha\\source\\repos\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj",
+        "projectPath": "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\RepoPatternTOYCompany.csproj",
         "packagesPath": "C:\\Users\\jeet.raythatha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeet.raythatha\\source\\repos\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\obj\\",
+        "outputPath": "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\RepoPatternTOYCompany\\RepoPatternTOYCompany\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeet.raythatha\\AppData\\Roaming\\NuGet\\NuGet.Config",

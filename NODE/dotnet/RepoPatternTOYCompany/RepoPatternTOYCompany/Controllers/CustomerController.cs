@@ -33,13 +33,16 @@ namespace RepoPatternTOYCompany.Controllers
         [HttpDelete("{id}")]
         public IActionResult DeleteCustomer(int id)
         {
-            return Ok(CustomerService.Remove(id));
+            var cus = CustomerService.GetById(id);
+            return Ok(CustomerService.Remove(cus));
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateCustomer(int id,Customer customer)
+        public IActionResult UpdateCustomer(int id,[FromBody] Customer customer)
         {
-            return Ok(CustomerService.Update(id, customer));
+            var customer1 = CustomerService.GetById(id);
+            customer1.CustomerName = customer.CustomerName;
+            return Ok(CustomerService.Update(customer1));
         }
 
         [HttpPost]

@@ -13,7 +13,7 @@ namespace RepoPatternTOYCompany
         TEntity GetById(int id);
         TEntity Remove(TEntity entity);
         void RemoveRange(IEnumerable<TEntity> entities);
-        int Update(int id, TEntity entity);
+        TEntity Update(TEntity entity);
         void AddRange(IEnumerable<TEntity> entities);
     }
 
@@ -35,6 +35,7 @@ namespace RepoPatternTOYCompany
         public T Remove(T entity)
         {
             DbContext.Set<T>().Remove(entity);
+            DbContext.SaveChanges();
             return entity;
         }
         public void RemoveRange(IEnumerable<T> entities)
@@ -42,13 +43,13 @@ namespace RepoPatternTOYCompany
             DbContext.Set<T>().RemoveRange(entities);
         }
 
-        public int Update(int id, T entity)
+        public T Update(T entity)
         {
-            var ent = GetById(id);
-            ent = entity;
-            DbContext.Update(ent);
+
+            DbContext.Update(entity);
             DbContext.SaveChanges();
-            return id;
+            return entity;
+
         }
         public T Add(T entity)
         {
