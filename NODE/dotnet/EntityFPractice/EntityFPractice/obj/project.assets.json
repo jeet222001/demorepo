@@ -1159,11 +1159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeet.raythatha\\source\\repos\\EntityFPractice\\EntityFPractice\\EntityFPractice.csproj",
+      "projectUniqueName": "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\EntityFPractice\\EntityFPractice\\EntityFPractice.csproj",
       "projectName": "EntityFPractice",
-      "projectPath": "C:\\Users\\jeet.raythatha\\source\\repos\\EntityFPractice\\EntityFPractice\\EntityFPractice.csproj",
+      "projectPath": "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\EntityFPractice\\EntityFPractice\\EntityFPractice.csproj",
       "packagesPath": "C:\\Users\\jeet.raythatha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeet.raythatha\\source\\repos\\EntityFPractice\\EntityFPractice\\obj\\",
+      "outputPath": "C:\\Users\\jeet.raythatha\\Desktop\\repo\\demorepo\\NODE\\dotnet\\EntityFPractice\\EntityFPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeet.raythatha\\AppData\\Roaming\\NuGet\\NuGet.Config",
